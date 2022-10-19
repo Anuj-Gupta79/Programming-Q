@@ -1,0 +1,1 @@
+{"name":"Local: Odd_Sum_Pair","url":"/home/rider/Desktop/Programming-Q/Starter61/Odd_Sum_Pair.cpp","tests":[{"id":1666190309178,"input":"4\n1 2 3\n8 4 6\n3 3 9\n7 8 6","output":"YES\nNO\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rider/Desktop/Programming-Q/Starter61/Odd_Sum_Pair.cpp","group":"local","local":true}
