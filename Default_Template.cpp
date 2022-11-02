@@ -9,8 +9,8 @@ int fun(){
 int main(){
     int t; cin>>t;
     while(t--){
-        
         // write your code here 
+        
         cout<<fun()<<endl;
     }
     return 0;
